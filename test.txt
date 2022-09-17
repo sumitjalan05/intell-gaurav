@@ -1,0 +1,4 @@
+Hello sumit
+this is the test file for sed command **122*3
+this is for practice purpose 123453*9*9
+this is to do the modification 789*6546788*
