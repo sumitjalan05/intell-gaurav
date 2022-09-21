@@ -6,5 +6,5 @@ this is to do the modification
 
 sencitive info:
 
-username= sumit
-password= 12zimbra25
+username= xxxxx
+password= xxxxxx
