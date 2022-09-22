@@ -2,3 +2,9 @@ Hello sumit
 this is the test file for sed command
 this is for practice purpose
 this is to do the modification
+
+
+sencitive info:
+
+username= xxxxx
+password= xxxxxx
